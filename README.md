@@ -1,3 +1,3 @@
 # Database-Project
-# sql # xampp # php #crud
+//run index.php using xampp
 University Database Project
